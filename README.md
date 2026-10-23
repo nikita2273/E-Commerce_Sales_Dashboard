@@ -61,3 +61,7 @@ To transform e-commerce sales data into meaningful visual insights, understand b
 
 - [E-Commerce Sales Dashboard](E-Commerce%20Sales%20Dashboard.pbix)
 - [View Dashboard Screenshot](E-Commerce_Dashboard.png)
+
+- ## 📊 Dashboard Preview
+
+![E-Commerce Sales Dashboard](E-Commerce_Dashboard.png)

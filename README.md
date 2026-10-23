@@ -56,3 +56,9 @@ Both files are connected using the Order ID column.
 ## 🎯 Objective
 
 To transform e-commerce sales data into meaningful visual insights, understand business performance, and support data-driven decision-making.
+
+## 📊 Dashboard Preview
+
+[**View / Download Power BI Dashboard (.pbix)**] [E-Commerce%20Sales%20Dashboard.pbix]
+
+[**View Dashboard Screenshot**]

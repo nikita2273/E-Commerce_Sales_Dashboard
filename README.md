@@ -57,11 +57,13 @@ Both files are connected using the Order ID column.
 
 To transform e-commerce sales data into meaningful visual insights, understand business performance, and support data-driven decision-making.
 
+---
+
 ## 📊 Dashboard Preview
+
+![E-Commerce Sales Dashboard](E-Commerce_Dashboard.png)
+
+## 📂 Dashboard Files
 
 - [E-Commerce Sales Dashboard](E-Commerce%20Sales%20Dashboard.pbix)
 - [View Dashboard Screenshot](E-Commerce_Dashboard.png)
-
-- ## 📊 Dashboard Preview
-
-![E-Commerce Sales Dashboard](E-Commerce_Dashboard.png)

@@ -59,5 +59,5 @@ To transform e-commerce sales data into meaningful visual insights, understand b
 
 ## 📊 Dashboard Preview
 
-- [View / Download Power BI Dashboard](E-Commerce%20Sales%20Dashboard.pbix)
+- [E-Commerce Sales Dashboard](E-Commerce%20Sales%20Dashboard.pbix)
 - [View Dashboard Screenshot](E-Commerce_Dashboard.png)
